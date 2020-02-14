@@ -51,8 +51,8 @@ set( FILES_TO_REMOVE_HEADER_AND_SOURCE
 	"barkmel.c"
 	"misc.c"
 	"psytune.c"
-	"tone.c"
-	"window.c" )
+	"tone.c" )
+#	"window.c" )
 
 JMSD_REMOVE_FILES_FROM_THE_LIST( header_and_source_files FILES_TO_REMOVE_HEADER_AND_SOURCE )
 
